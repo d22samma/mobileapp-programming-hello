@@ -2,7 +2,7 @@
 
 ## Byta ut Hello World ##
 
-Genom att ändra `string` med name som motsvarar app_name inom mappen _strings.xml_. 
+Genom att ändra `string` med `name = app_name` inom mappen _strings.xml_. 
 När innehållet i denna variabeln ändras. Ändras innehållet inom applikationen. 
 Då textraden hämtas ifrån _strings.xml_ filen.
 
