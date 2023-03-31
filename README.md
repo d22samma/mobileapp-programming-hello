@@ -1,10 +1,10 @@
-# Assignment 1 #
+# Uppgift 1 
 
-## Byta ut Hello World ##
+## Byta ut Hello World 
 
 Genom att ändra `string` med `name = app_name` inom mappen _strings.xml_. 
-När innehållet i denna variabeln ändras. Ändras innehållet inom applikationen. 
-Då textraden hämtas ifrån _strings.xml_ filen.
+När innehållet i denna variabeln förändras ändras innehållet inom applikationen. 
+Då värdet för textraden hämtas från _strings.xml_ filen.
 
 ``` java
 <resources>
